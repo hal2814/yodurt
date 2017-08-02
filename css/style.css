@@ -1,0 +1,14 @@
+.about{
+  font-size: 20px;
+  color: magenta;
+  font-family: fantasy;
+}
+
+body {
+  background-color: #9acc80;
+}
+
+img {
+  width: auto;
+  height: 400px;
+}
